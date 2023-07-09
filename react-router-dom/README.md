@@ -1,6 +1,6 @@
 ```bash
-1.Getting-Started ...
-2.Upgrading ...
+1 Getting-Started
+2 Upgrading
 3 Routers
 - createBrowserRouter : create routes
 - createHashRouter : create routes if you are unable to configure web server "#"
@@ -71,4 +71,5 @@
 - defer : return promises instead of resolves values
 - generatePath : generate route path
 - isRouteErrorResponse : return bool if is route error response
-10.Guides ...
+10 Guides
+- Object.fromEntries() : turn the entire formData into a object
