@@ -1,3 +1,7 @@
 :root {
   background-color: #242424;
+  color: whitesmoke;
+}
+.link-active{
+  background-color: aquamarine;
 }
