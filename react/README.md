@@ -6,7 +6,8 @@
 4 Adding Interactivity
 - stopPropagation() : stop firing the tags above handler
 - preventDefault() : prevent browser from basic bahavior for elements
-5 Managing State 15.07
-6 Escape Hatches 15.07
+5 Managing State
+- useReducer() : for cases on which there is much logic to update in hook
+- useRef : keep element value without rerender
+6 Escape Hatches
 7 Reference 16.07
-// done
